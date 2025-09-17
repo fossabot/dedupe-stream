@@ -4,6 +4,7 @@ A stream that prevents consecutive duplicate emissions.
 
 [![Build Status](http://img.shields.io/travis/urbanairship/dedupe-stream/master.svg?style=flat)](https://travis-ci.org/urbanairship/dedupe-stream)
 [![npm install](http://img.shields.io/npm/dm/dedupe-stream.svg?style=flat)](https://www.npmjs.org/package/dedupe-stream)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fdedupe-stream.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fdedupe-stream?ref=badge_shield)
 
 ## Example
 
@@ -41,3 +42,6 @@ This project is licensed under the Apache License, Version 2.0. See
 [LICENSE][license] for the full license.
 
 [license]: ./LICENSE
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fdedupe-stream.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fdedupe-stream?ref=badge_large)
